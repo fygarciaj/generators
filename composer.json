@@ -1,5 +1,5 @@
 {
-    "name": "bpocallaghan/generators",
+    "name": "fygarciaj/generators",
     "description": "Custom Laravel File Generators with config and publishable stubs.",
     "keywords": [
         "laravel",
