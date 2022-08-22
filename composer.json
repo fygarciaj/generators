@@ -12,9 +12,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ben-Piet O'Callaghan",
-            "email": "bpocallaghan@gmail.com",
-            "homepage": "http://bpocallaghan.co.za",
+            "name": "Fabian Garcia",
+            "email": "fygarciaj@gmail.com",
+            "homepage": "http://fygarciaj.co",
             "role": "Developer"
         }
     ],
@@ -28,18 +28,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Bpocallaghan\\Generators\\": "src"
+            "Fygarciaj\\Generators\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bpocallaghan\\Generators\\Tests\\": "tests"
+            "Fygarciaj\\Generators\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Bpocallaghan\\Generators\\GeneratorsServiceProvider"
+                "Fygarciaj\\Generators\\GeneratorsServiceProvider"
             ]
         }
     },
